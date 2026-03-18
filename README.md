@@ -199,7 +199,6 @@ spring.jpa.show-sql=true
 ### 🔹 Get All Departments
 
 <img width="977" height="623" alt="Screenshot 2026-03-18 124946" src="https://github.com/user-attachments/assets/10bd94c1-fe93-4dd7-9721-e61a5161a4bb" />
-enshots/get-departments.png)
 
 * Endpoint: `GET /department`
 * Description: Retrieves all department records
