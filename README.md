@@ -189,8 +189,7 @@ spring.jpa.show-sql=true
 
 ### 🔹 Get Employee By ID
 
-![Get Employee By I<img width="977" height="445" alt="Screenshot 2026-03-18 124217" src="https://github.com/user-attachments/assets/01af272f-2ea9-4f51-b0a2-d85e99ccec3d" />
-D](screenshots/get-employee-by-id.png)
+<img width="977" height="445" alt="Screenshot 2026-03-18 124217" src="https://github.com/user-attachments/assets/01af272f-2ea9-4f51-b0a2-d85e99ccec3d" />
 
 * Endpoint: `GET /api/employee/{id}`
 * Description: Fetch a specific employee by ID
@@ -199,7 +198,7 @@ D](screenshots/get-employee-by-id.png)
 
 ### 🔹 Get All Departments
 
-![Get All Departments](scre<img width="977" height="623" alt="Screenshot 2026-03-18 124946" src="https://github.com/user-attachments/assets/10bd94c1-fe93-4dd7-9721-e61a5161a4bb" />
+<img width="977" height="623" alt="Screenshot 2026-03-18 124946" src="https://github.com/user-attachments/assets/10bd94c1-fe93-4dd7-9721-e61a5161a4bb" />
 enshots/get-departments.png)
 
 * Endpoint: `GET /department`
