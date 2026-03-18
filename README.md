@@ -180,7 +180,7 @@ spring.jpa.show-sql=true
 
 ### 🔹 Get All Employees
 
-![Get All Employees](screenshots/get-all-employees.png)
+<img width="973" height="621" alt="Screenshot 2026-03-18 124135" src="https://github.com/user-attachments/assets/6c1a6ae2-8fdc-42cd-b5e7-d0891df64ca2" />
 
 * Endpoint: `GET /employee`
 * Description: Retrieves all employee records with department details
@@ -189,7 +189,8 @@ spring.jpa.show-sql=true
 
 ### 🔹 Get Employee By ID
 
-![Get Employee By ID](screenshots/get-employee-by-id.png)
+![Get Employee By I<img width="977" height="445" alt="Screenshot 2026-03-18 124217" src="https://github.com/user-attachments/assets/01af272f-2ea9-4f51-b0a2-d85e99ccec3d" />
+D](screenshots/get-employee-by-id.png)
 
 * Endpoint: `GET /api/employee/{id}`
 * Description: Fetch a specific employee by ID
@@ -198,7 +199,8 @@ spring.jpa.show-sql=true
 
 ### 🔹 Get All Departments
 
-![Get All Departments](screenshots/get-departments.png)
+![Get All Departments](scre<img width="977" height="623" alt="Screenshot 2026-03-18 124946" src="https://github.com/user-attachments/assets/10bd94c1-fe93-4dd7-9721-e61a5161a4bb" />
+enshots/get-departments.png)
 
 * Endpoint: `GET /department`
 * Description: Retrieves all department records
